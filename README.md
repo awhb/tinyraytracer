@@ -1,4 +1,4 @@
-# Tiny Raytracer
+# Tiny RayTracer
 
 ![Output Image](https://raw.githubusercontent.com/awhb/tinyraytracer/main/out.jpg)
 
