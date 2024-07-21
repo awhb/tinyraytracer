@@ -1,6 +1,8 @@
+![](https://raw.githubusercontent.com/awhb/tinyraytracer/main/out.jpg)
+
 # Tiny Raytracer
 
-A simple ray tracing program written in C++ following a [tutorial](https://github.com/ssloy/tinyraytracer). By doing this, I refreshed a lot of my knowledge on linear algebra and even the physics of light! Recommend to check it out and implement if you are interested. 
+A simple Ray Tracing program written in bare C++ following a [tutorial](https://github.com/ssloy/tinyraytracer). By doing this, I learned a lot about C++, linear algebra and even the physics of light! Recommend to check it out and implement if you are interested. 
 
 # Compilation
 ```
